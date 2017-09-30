@@ -18,8 +18,8 @@ Date: 9/29/2017
 * [PHP vs Nodejs](https://www.sitepoint.com/sitepoint-smackdown-php-vs-node-js/)
 
 ## Components Explored
-* What is Nodejs?
-* How is Nodejs different from PHP?
+* [What is Nodejs?](#what-is-nodejs)
+* [How is Nodejs different from PHP?](#how-is-nodejs-different-from-php)
 * How to install Nodejs
 * How to install Express
 * How to use Modules
