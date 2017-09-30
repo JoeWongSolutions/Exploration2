@@ -20,10 +20,10 @@ Date: 9/29/2017
 ## Components Explored
 * [What is Nodejs?](#what-is-nodejs)
 * [How is Nodejs different from PHP?](#how-is-nodejs-different-from-php)
-* How to install Nodejs
-* How to install Express
-* How to use Modules
-* How to Extend Modules
+* [How to install Nodejs](#how-to-install-nodejs)
+* [How to install Express](#how-to-install-express)
+* [How to use Modules](#how-to-use-modules)
+* [How to Extend Modules](#how-to-extend-modules)
 
 #### What is Nodejs?
 Nodejs is an open-source backend platform that takes front-end javascript and applies it to the server. Like PHP, Nodejs handles requests sent from the client and gives web applications a dynamic feel. Nodejs is best used for applications where the core algorithms are simple and non-taxing to the server's CPU. Basically if you have a ton of users who just need to do something simple like logging in or sending form data and it is likely that the server will get multiple requests at the same time, Nodejs will be able to handle that type of load.
